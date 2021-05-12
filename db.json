@@ -2,7 +2,30 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "make": "hello",
+      "description": "hello",
+      "image": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg",
+      "quantity": "100"
+
+
+    },
+     {
+      "id": 2,
+      "make": "hello",
+      "description": "hello",
+      "image": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg",
+      "quantity": "100"
+
+
+    },
+     {
+      "id": 3,
+      "make": "hello",
+      "description": "hello",
+      "image": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg",
+      "quantity": "100"
+
+
     }
   ],
   "profile": {
